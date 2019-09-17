@@ -1,5 +1,3 @@
 # Stock price prediction using python'
 
-
-![](stock-prediction/AAPL prediction.png)
-
+<img src="https://github.com/sudathmurari/stock-prediction/blob/master/AAPL%20prediction.png" >
